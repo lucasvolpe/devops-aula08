@@ -13,7 +13,7 @@ oyaml==0.9
 packaging==20.3
 pluggy==0.13.1
 py==1.8.1
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.4.7
 pytest==5.4.1
 PyYAML==5.3.1
